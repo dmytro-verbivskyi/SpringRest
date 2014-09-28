@@ -10,6 +10,8 @@
     <properties>
         <webapp.port>8181</webapp.port>
         <webapp.path>/springrest</webapp.path>
+
+        <!-- ============= LIBRARIES ============= -->
         <spring.version>3.2.11.RELEASE</spring.version>
         <spring.jpa.version>1.7.0.RELEASE</spring.jpa.version>
         <hibernate.version>4.3.2.Final</hibernate.version>
